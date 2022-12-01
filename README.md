@@ -2,10 +2,13 @@
 
 UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"
 
-NOMBRE: BLASS COLLAGUAZO 
+NOMBRE: BLASS COLLAGUAZO, NICOLAS CANDO
+
 
 1.Objetivos
+
 Objetivo General
+
 Realizar un instrumento de medida mediante sensores, este instrumento de medida nos permetira ver el nivel del agua a pequeña escala.
 
 Objetivos específicos
