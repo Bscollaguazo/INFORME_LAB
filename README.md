@@ -61,11 +61,13 @@ Primero comenzamos dando alimentación a nuestro protodoboad, luego usamos tres 
 
 [![proto.jpg](https://i.postimg.cc/y6G5Vn6s/proto.jpg)](https://postimg.cc/6TdzcrGm)
 
+[![Whats-App-Image-2022-12-01-at-13-43-13.jpg](https://i.postimg.cc/HkMjSSnx/Whats-App-Image-2022-12-01-at-13-43-13.jpg)](https://postimg.cc/bZzzr9Qc)
 
 5.Conlusión
 
 En conclusión podemos ver que es un trabajo interactivo y muy facil de realizar ya que a su vez ponemos en practica los conocimientos impartidos en la clase, y podemos ver el funcionamiento de los transistores.
 
 6. Bibliografía
+
 Floyd, T.(2007). Principios de circuitos electricos(Octava edi). México Pearson
 
