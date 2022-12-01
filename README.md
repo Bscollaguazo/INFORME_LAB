@@ -18,22 +18,28 @@ Conocer como se usan los sensores en el circuito, como es su activacion y su uso
 
 2.Marco teorico
 
-
+[![Sin-t-tulo.png](https://i.postimg.cc/GhwFpb1Z/Sin-t-tulo.png)](https://postimg.cc/4nP7Lky5)
 
 
 
 3.Procedimiento
 Materiales
 
+-protoboard
 
-protoboard
-3 Leds
-fuente 9v
-3 Transistores PNP 2N3904
-2 Resistencias 330
-1 Resistencia 220
-1 Resistencia 1 K
-Procedimiento
+-3 Leds
+
+-fuente 9v
+
+-3 Transistores PNP 2N3904
+
+-2 Resistencias 330
+
+-1 Resistencia 220
+
+-1 Resistencia 1 K
+
+ Procedimiento
 
 Primero comenzamos dando alimentación a nuestro protodoboad, luego usamos tres resitores conectando a negativo cada uno de ellos, luego conectamos las resistencias a cada uno de los leds para luego conectar una resistencia de 1k a una linea común por donde pasan los resistores, luego usaremos 4 claves conectadoles a la señal que envia los transitores, debemos recortar los cables para asi poder tomar diferentes medidas.
 
